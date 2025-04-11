@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/personal-project/static/css/main.fa88b8b4.css",
-    "main.js": "/personal-project/static/js/main.a9d6220c.js",
-    "static/js/453.99f3c69d.chunk.js": "/personal-project/static/js/453.99f3c69d.chunk.js",
-    "static/media/bg2.jpeg": "/personal-project/static/media/bg2.fb5134b73135029508a7.jpeg",
-    "static/media/Vazirmatn-Medium.ttf": "/personal-project/static/media/Vazirmatn-Medium.69fe579d5c984c16172d.ttf",
-    "index.html": "/personal-project/index.html",
-    "main.fa88b8b4.css.map": "/personal-project/static/css/main.fa88b8b4.css.map",
-    "main.a9d6220c.js.map": "/personal-project/static/js/main.a9d6220c.js.map",
-    "453.99f3c69d.chunk.js.map": "/personal-project/static/js/453.99f3c69d.chunk.js.map"
+    "main.css": "/Aghil_Samei/static/css/main.6ba59d55.css",
+    "main.js": "/Aghil_Samei/static/js/main.f959eacb.js",
+    "static/js/453.99f3c69d.chunk.js": "/Aghil_Samei/static/js/453.99f3c69d.chunk.js",
+    "static/media/bg2.jpeg": "/Aghil_Samei/static/media/bg2.fb5134b73135029508a7.jpeg",
+    "static/media/Vazirmatn-Medium.ttf": "/Aghil_Samei/static/media/Vazirmatn-Medium.69fe579d5c984c16172d.ttf",
+    "index.html": "/Aghil_Samei/index.html",
+    "main.6ba59d55.css.map": "/Aghil_Samei/static/css/main.6ba59d55.css.map",
+    "main.f959eacb.js.map": "/Aghil_Samei/static/js/main.f959eacb.js.map",
+    "453.99f3c69d.chunk.js.map": "/Aghil_Samei/static/js/453.99f3c69d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa88b8b4.css",
-    "static/js/main.a9d6220c.js"
+    "static/css/main.6ba59d55.css",
+    "static/js/main.f959eacb.js"
   ]
 }
